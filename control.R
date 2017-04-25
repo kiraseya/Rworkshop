@@ -13,4 +13,8 @@ for(number in 1:4){
   
 print(number)
 }
+
+subtracter <- function(num1,num2){
+  return(num1-num2)
+}
   
